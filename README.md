@@ -26,7 +26,7 @@ SimpleAdminDashboardUI is a lightweight and intuitive admin dashboard UI designe
 3. Customize the dashboard according to your requirements by modifying the HTML, CSS, and JavaScript files.
 
 ## Working Video
-
+https://github.com/SURD1618/SimpleAdminDashboardUI/assets/77046452/056265ec-117b-4759-a633-f580791f8f3b
 
 ## Contributing
 
